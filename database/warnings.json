@@ -1,0 +1,288 @@
+{
+  "120363416552282790@g.us_250916703883353@lid": {
+    "count": 2,
+    "warnings": [
+      {
+        "reason": "NSFW caption detected",
+        "date": 1775153408765
+      },
+      {
+        "reason": "Adult text detected",
+        "date": 1775153519223
+      }
+    ]
+  },
+  "120363416552282790@g.us_166499272663169@lid": {
+    "count": 2,
+    "warnings": [
+      {
+        "reason": "Adult text detected",
+        "date": 1775186751516
+      },
+      {
+        "reason": "Adult text detected",
+        "date": 1775186782979
+      }
+    ]
+  },
+  "120363405279375805@g.us_86402561740834@lid": {
+    "count": 1,
+    "warnings": [
+      {
+        "reason": "Adult text detected",
+        "date": 1775218102561
+      }
+    ]
+  },
+  "120363405448530662@g.us_923193052764@s.whatsapp.net": {
+    "count": 1,
+    "warnings": [
+      {
+        "reason": "Adult text detected",
+        "date": 1775236216631
+      }
+    ]
+  },
+  "120363406940515099@g.us_188961934831733@lid": {
+    "count": 3,
+    "warnings": [
+      {
+        "reason": "NSFW caption detected",
+        "date": 1775316820400
+      },
+      {
+        "reason": "NSFW caption detected",
+        "date": 1775316820571
+      },
+      {
+        "reason": "NSFW caption detected",
+        "date": 1775316820603
+      }
+    ]
+  },
+  "120363406940515099@g.us_260121154306284@lid": {
+    "count": 1,
+    "warnings": [
+      {
+        "reason": "Adult text detected",
+        "date": 1775316887619
+      }
+    ]
+  },
+  "120363407063515438@g.us_923184135553@s.whatsapp.net": {
+    "count": 1,
+    "warnings": [
+      {
+        "reason": "NSFW caption detected",
+        "date": 1775319183693
+      }
+    ]
+  },
+  "120363405448530662@g.us_172198811725870@lid": {
+    "count": 2,
+    "warnings": [
+      {
+        "reason": "Adult text detected",
+        "date": 1775321196756
+      },
+      {
+        "reason": "Adult text detected",
+        "date": 1775321210393
+      }
+    ]
+  },
+  "120363407063515438@g.us_172198811725870@lid": {
+    "count": 2,
+    "warnings": [
+      {
+        "reason": "Adult text detected",
+        "date": 1775323727059
+      },
+      {
+        "reason": "Adult text detected",
+        "date": 1775323832052
+      }
+    ]
+  },
+  "120363409646900873@g.us_923193052764@s.whatsapp.net": {
+    "count": 1,
+    "warnings": [
+      {
+        "reason": "Adult text detected",
+        "date": 1775324845872
+      }
+    ]
+  },
+  "120363405673028907@g.us_923295074764@s.whatsapp.net": {
+    "count": 2,
+    "warnings": [
+      {
+        "reason": "Adult text detected",
+        "date": 1775327095337
+      },
+      {
+        "reason": "Adult text detected",
+        "date": 1775327101172
+      }
+    ]
+  },
+  "120363405673028907@g.us_197771013402647@lid": {
+    "count": 1,
+    "warnings": [
+      {
+        "reason": "Adult text detected",
+        "date": 1775327096821
+      }
+    ]
+  },
+  "120363405673028907@g.us_923458955127@s.whatsapp.net": {
+    "count": 2,
+    "warnings": [
+      {
+        "reason": "Adult text detected",
+        "date": 1775327096860
+      },
+      {
+        "reason": "Adult text detected",
+        "date": 1775393869609
+      }
+    ]
+  },
+  "120363405673028907@g.us_923497680204@s.whatsapp.net": {
+    "count": 1,
+    "warnings": [
+      {
+        "reason": "Adult text detected",
+        "date": 1775327097559
+      }
+    ]
+  },
+  "120363405673028907@g.us_160331800309803@lid": {
+    "count": 1,
+    "warnings": [
+      {
+        "reason": "Adult text detected",
+        "date": 1775327103917
+      }
+    ]
+  },
+  "120363409646900873@g.us_47026318385269@lid": {
+    "count": 2,
+    "warnings": [
+      {
+        "reason": "Adult text detected",
+        "date": 1775327979252
+      },
+      {
+        "reason": "Adult text detected",
+        "date": 1775329733653
+      }
+    ]
+  },
+  "120363406940515099@g.us_923054003474@s.whatsapp.net": {
+    "count": 1,
+    "warnings": [
+      {
+        "reason": "Adult text detected",
+        "date": 1775375073603
+      }
+    ]
+  },
+  "120363405673028907@g.us_152961653194778@lid": {
+    "count": 2,
+    "warnings": [
+      {
+        "reason": "NSFW caption detected",
+        "date": 1775390400607
+      },
+      {
+        "reason": "NSFW caption detected",
+        "date": 1775390577100
+      }
+    ]
+  },
+  "120363405673028907@g.us_923151700224@s.whatsapp.net": {
+    "count": 1,
+    "warnings": [
+      {
+        "reason": "NSFW caption detected",
+        "date": 1775393822682
+      }
+    ]
+  },
+  "120363405673028907@g.us_923193052764@s.whatsapp.net": {
+    "count": 1,
+    "warnings": [
+      {
+        "reason": "Adult text detected",
+        "date": 1775393869743
+      }
+    ]
+  },
+  "120363405673028907@g.us_260121154306284@lid": {
+    "count": 2,
+    "warnings": [
+      {
+        "reason": "NSFW caption detected",
+        "date": 1775393876871
+      },
+      {
+        "reason": "Adult text detected",
+        "date": 1775393879705
+      }
+    ]
+  },
+  "120363405673028907@g.us_215041127239700@lid": {
+    "count": 1,
+    "warnings": [
+      {
+        "reason": "Adult text detected",
+        "date": 1775393881818
+      }
+    ]
+  },
+  "120363405673028907@g.us_111175983448299@lid": {
+    "count": 2,
+    "warnings": [
+      {
+        "reason": "Adult text detected",
+        "date": 1775393884188
+      },
+      {
+        "reason": "Adult text detected",
+        "date": 1775393886171
+      }
+    ]
+  },
+  "120363405673028907@g.us_923054003474@s.whatsapp.net": {
+    "count": 1,
+    "warnings": [
+      {
+        "reason": "Adult text detected",
+        "date": 1775393887457
+      }
+    ]
+  },
+  "120363425025902190@g.us_215041127239700@lid": {
+    "count": 2,
+    "warnings": [
+      {
+        "reason": "Adult text detected",
+        "date": 1775489830045
+      },
+      {
+        "reason": "Adult text detected",
+        "date": 1775489841983
+      }
+    ]
+  },
+  "120363406940515099@g.us_152961653194778@lid": {
+    "count": 1,
+    "warnings": [
+      {
+        "reason": "NSFW caption detected",
+        "date": 1775497594727
+      }
+    ]
+  }
+}
